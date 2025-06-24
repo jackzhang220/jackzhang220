@@ -8,7 +8,6 @@ We build high-brightness TFT LCD displays, HMI panels, and tailored embedded dis
 
 ## 📘 Featured Pages
 
-- [Custom Embedded System](https://www.rocktech.com.hk/custom-embedded-system/)
 - [TFT Display Config Wiki](https://tft-display.net/)
 - [TFT Project Repository](https://jackzhang220.github.io/tft-display-site/)
 
