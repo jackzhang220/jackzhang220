@@ -8,7 +8,7 @@ We build high-brightness TFT LCD displays, HMI panels, and tailored embedded dis
 
 ## 📘 Featured Pages
 
-- [TFT Display Config Wiki](https://tft-display.net/)
+- [TFT Display](https://tft-display.net/)
 - [TFT Project Repository](https://jackzhang220.github.io/tft-display-site/)
 
 ---
